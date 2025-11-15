@@ -11,7 +11,7 @@ An Android library providing a complete solution for apps using root permissions
 ## [Javadoc](https://topjohnwu.github.io/libsu/)
 
 ## Download
-
+![](https://jitpack.io/v/bilbak-ops/libsu.svg)](https://jitpack.io/#bilbak-ops/libsu)
 ```groovy
 android {
     compileOptions {
